@@ -51,6 +51,15 @@
 </div>
 
 ---
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mayuri-gaikwad5&show_icons=true&theme=transparent&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuri-gaikwad5&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
 
 ## ⚡ GitHub Activity Dashboard
 
