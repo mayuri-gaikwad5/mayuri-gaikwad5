@@ -41,21 +41,7 @@
 </p>
 
 ---
-## 📊 Developer Activity Overview
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mayuri-gaikwad5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayuri-gaikwad5&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuri-gaikwad5&theme=github-dark&hide_border=true&area=true" />
-
-</div>
 
 ## 🐍 Contribution Activity
 
@@ -65,32 +51,6 @@
 
 </div>
 
----
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mayuri-gaikwad5&show_icons=true&theme=transparent&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuri-gaikwad5&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
-## ⚡ GitHub Activity Dashboard
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mayuri-gaikwad5&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuri-gaikwad5&theme=github-dark&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
-</div>
 
 ---
 
