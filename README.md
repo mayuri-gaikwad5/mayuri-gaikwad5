@@ -55,12 +55,19 @@
 
 ---
 
-## 🔥 GitHub Activity
+## ⚡ GitHub Activity Dashboard
 
 <div align="center">
 
-<!-- Clean streak (not default theme look) -->
-<img src="https://streak-stats.demolab.com?user=mayuri-gaikwad5&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=C9D1D9" />
+<img src="https://github-profile-trophy.vercel.app/?username=mayuri-gaikwad5&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuri-gaikwad5&theme=github-dark&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
 
