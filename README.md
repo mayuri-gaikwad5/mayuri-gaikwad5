@@ -42,14 +42,11 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<!-- Modern custom styled stats (unique look) -->
-<img src="https://github-readme-stats.vercel.app/api?username=mayuri-gaikwad5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuri-gaikwad5&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="180em"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
 
