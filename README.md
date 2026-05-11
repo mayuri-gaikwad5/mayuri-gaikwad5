@@ -57,9 +57,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayuri-gaikwad5&theme=tokyonight&hide_border=true" /> 
 </div>
 
-## 📈 Activity Graph
-<div align="center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuri-gaikwad5&theme=react-dark&hide_border=true&area=true&color=00E5FF" />
+
+## 🏆 ACHIEVEMENTS
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mayuri-gaikwad5&theme=algolia&no-frame=true&row=1&column=7" />
 </div>
 
 ## 📈 Contribution Graph
