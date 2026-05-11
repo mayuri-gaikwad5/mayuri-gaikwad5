@@ -2,9 +2,9 @@
 
 # 👋 Hi there, I'm Mayuri Gaikwad
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;DSA+Learner;Building+things+step+by+step)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;DSA+Problem+Solver;Building+real+projects+step+by+step)
 
-**`🤖 AI Explorer | 💻 Developer | 🧠 Problem Solver | 🌱 Minimal Builder`**
+**`🤖 AI Explorer | 💻 Developer | 🧠 Logical Thinker | 🌱 Minimal Builder`**
 
 </div>
 
@@ -12,13 +12,13 @@
 
 ## 🌸 About Me
 
-> *"Learning deeply, building quietly, improving daily."*
+> *"Learning deeply, building quietly, improving consistently."*
 
 - 🎓 AI & Machine Learning enthusiast  
-- 💻 Full Stack Developer (learning + building mode)  
-- 🧠 Strong focus on **DSA + Problem Solving**  
-- 🌱 Currently growing in AI/ML + real-world projects  
-- 🎯 Goal: Internship in AI/ML + strong software engineering career  
+- 💻 Full Stack Developer (learning + building real projects)  
+- 🧠 Strong focus on **DSA + logical problem solving**  
+- 🌱 Currently exploring AI/ML + real-world applications  
+- 🎯 Goal: Internship in AI/ML + strong software engineering role  
 - ⚡ I enjoy turning ideas into working systems
 
 ---
@@ -26,41 +26,51 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 </p>
 
 ### 🌐 Web Development
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
 ### 🗄️ Databases & Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Mayuri GitHub stats](https://github-readme-stats.vercel.app/api?username=mayuri-gaikwad5&show_icons=true&theme=tokyonight)
+<!-- Modern custom styled stats (unique look) -->
+<img src="https://github-readme-stats.vercel.app/api?username=mayuri-gaikwad5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF" height="180em"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayuri-gaikwad5&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayuri-gaikwad5&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuri-gaikwad5&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="180em"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🔥 GitHub Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayuri-gaikwad5&theme=react-dark)
+<!-- Clean streak (not default theme look) -->
+<img src="https://streak-stats.demolab.com?user=mayuri-gaikwad5&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=C9D1D9" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuri-gaikwad5&theme=github-dark&hide_border=true&area=true&color=00E5FF&line=00E5FF&point=FFFFFF" />
 
 </div>
 
@@ -80,21 +90,21 @@
 👉 Explore my work here:  
 🔗 https://github.com/mayuri-gaikwad5?tab=repositories  
 
-💡 *More structured AI/ML + Web projects coming soon...*
+💡 *Focused on building AI/ML + practical web projects*
 
 ---
 
 ## 🌱 Learning Philosophy
 
-> “Small progress every day becomes big results over time.”
+> “Consistency beats intensity. Small daily progress creates big results.”
 
 ---
 
 ## 📫 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/mayuri-gaikwad5">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
   </a>
 </p>
 
@@ -103,6 +113,6 @@
 <div align="center">
 
 ⭐ *Thanks for visiting my profile!*  
-🚀 *Always learning, always building.*
+🚀 *Always learning. Always building. Always improving.*
 
 </div>
