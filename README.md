@@ -4,8 +4,8 @@
 
 ### AI/ML Enthusiast · Full Stack Developer · DSA Problem Solver
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](<www.linkedin.com/in/mayuri-gaikwad-80396533b>)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:<2305mayurigaikwad@gmail.com>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]<www.linkedin.com/in/mayuri-gaikwad-80396533b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:2305mayurigaikwad@gmail.com)
 
 
 </div>
@@ -16,10 +16,10 @@
 
 I'm a Computer Science student focused on **AI/ML** and **full-stack development**, with a strong foundation in **Data Structures & Algorithms**. I build end-to-end projects — from model to UI — and I'm looking for **internship/entry-level opportunities in AI/ML or Software Engineering**.
 
-- 🎯 Currently: `<Automated CO-PO Attainment and Gap Analysis Enginee >`
-- 📚 Learning: `<Machine learning Concepts , and MERN Stack>`
+- 🎯 Currently: Automated CO-PO Attainment and Gap Analysis Enginee 
+- 📚 Learning: Machine learning Concepts , and MERN Stack
 - 💼 Open to: AI/ML Internships, SDE Roles
-- 📫 Reach me: `<2305mayurigaikwad@gmail.com>`
+- 📫 Reach me: 2305mayurigaikwad@gmail.com
 
 ---
 
@@ -74,8 +74,8 @@ Data analysis and interactive dashboard built as part of the Infosys Springboard
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](<www.linkedin.com/in/mayuri-gaikwad-80396533b>)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<2305mayurigaikwad@gmail.com>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mayuri-gaikwad-80396533b)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2305mayurigaikwad@gmail.com)
 
 </div>
 
