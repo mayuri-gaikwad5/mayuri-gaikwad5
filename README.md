@@ -35,7 +35,7 @@ I'm an Electronics & Communication Engineering (ECE) student who moved into **AI
 ## Featured Projects
 
 ### 🔹 [Wanna Web – Supervisor Admin](https://github.com/mayuri-gaikwad5/Wanna-web-supervisor-admin) *(Internship Project)*
-Full-stack region-based admin & supervisor management system — role-based approval flow, live map with real-time event tracking (Firestore), and JWT-secured auth. [Live demo →](https://wanna-web-supervisor-admin.vercel.app)
+Full-stack region-based admin & supervisor management system — role-based approval flow, live map with real-time event tracking (Firestore), and JWT-secured auth. 
 `Tech: React.js, Node.js, Express, MongoDB, JWT, Firestore`
 
 ### 🔹 [Hotel Revenue Analysis – Infosys Springboard Internship](https://github.com/mayuri-gaikwad5/Infosys-Internship)
