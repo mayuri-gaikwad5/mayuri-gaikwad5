@@ -4,9 +4,8 @@
 
 ### AI/ML Enthusiast · Full Stack Developer · DSA Problem Solver
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]<www.linkedin.com/in/mayuri-gaikwad-80396533b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuri-gaikwad-80396533b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:2305mayurigaikwad@gmail.com)
-
 
 </div>
 
@@ -14,10 +13,10 @@
 
 ## About Me
 
-I'm a Computer Science student focused on **AI/ML** and **full-stack development**, with a strong foundation in **Data Structures & Algorithms**. I build end-to-end projects — from model to UI — and I'm looking for **internship/entry-level opportunities in AI/ML or Software Engineering**.
+I'm an Electronics & Communication Engineering (ECE) student who moved into **AI/ML** and **full-stack development**, with a strong foundation in **Data Structures & Algorithms**. I build end-to-end projects — from model to UI — and I'm looking for **internship/entry-level opportunities in AI/ML or Software Engineering**.
 
-- 🎯 Currently: Automated CO-PO Attainment and Gap Analysis Enginee 
-- 📚 Learning: Machine learning Concepts , and MERN Stack
+- 🎯 Currently: Building an Automated CO-PO Attainment and Gap Analysis Engine
+- 📚 Learning: Machine Learning concepts and the MERN stack
 - 💼 Open to: AI/ML Internships, SDE Roles
 - 📫 Reach me: 2305mayurigaikwad@gmail.com
 
@@ -39,11 +38,9 @@ I'm a Computer Science student focused on **AI/ML** and **full-stack development
 Full-stack region-based admin & supervisor management system — role-based approval flow, live map with real-time event tracking (Firestore), and JWT-secured auth. [Live demo →](https://wanna-web-supervisor-admin.vercel.app)
 `Tech: React.js, Node.js, Express, MongoDB, JWT, Firestore`
 
-### 🔹 [Infosys Springboard – Power BI Project](https://github.com/mayuri-gaikwad5/infosys-springboard-powerbi)
-Data analysis and interactive dashboard built as part of the Infosys Springboard program — turned raw data into business-ready visual insights.
-`Tech: Power BI, DAX, <data source e.g. Excel/SQL>`
-
-> ⚠️ Still need to confirm the exact URL for the Power BI repo (I've guessed the slug — replace with the real one from your repo page).
+### 🔹 [Hotel Revenue Analysis – Infosys Springboard Internship](https://github.com/mayuri-gaikwad5/Infosys-Internship)
+End-to-end analytics solution combining a Power BI dashboard with an AI-powered Streamlit app. Built a Star Schema data model, tracked KPIs (Occupancy %, RevPAR, Total Revenue), segmented guests, and built a cancellation-risk predictor (e.g. flags bookings with cancellation probability).
+`Tech: Power BI, Power Query, Python (Pandas, NumPy), Streamlit`
 
 ---
 
@@ -74,7 +71,7 @@ Data analysis and interactive dashboard built as part of the Infosys Springboard
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mayuri-gaikwad-80396533b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuri-gaikwad-80396533b)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2305mayurigaikwad@gmail.com)
 
 </div>
